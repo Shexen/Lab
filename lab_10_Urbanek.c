@@ -39,7 +39,7 @@ int zad_67()
 	{
 		printf("*");
 	}
-	printf("\%i", iloscg);
+	printf("\n%i", iloscg);
 	printf("\nKoniec programu.");
 	return 0;
 }
